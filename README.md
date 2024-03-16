@@ -24,6 +24,8 @@ python '.\import requests.py'
 
 4. Enter the phone number and message, then click the "Send Message" button.
 
+**The code uses free api (1 msg daily) so if you want to send as many SMSs as you want you should buy their service from this site https://textbelt.com/ **
+
 ## Code Explanation
 
 - `send_sms()`: Function to send SMS messages using the Textbelt API.
